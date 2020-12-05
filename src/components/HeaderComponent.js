@@ -16,6 +16,9 @@ class Header extends Component{
                             <div className="col">
                                 <h1>Jae's Cafe</h1>
                             </div>
+                            <div className="col">
+                             
+                            </div>
                         </div>
                     </div>
                 </Jumbotron>
