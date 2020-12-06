@@ -13,11 +13,14 @@ class Header extends Component{
                 <Jumbotron fluid>
                     <div className="container">
                         <div className="row">
-                            <div className="col">
-                                <h1>Jae's Cafe</h1>
+                            <div className="align-left col md-3">
+                                <h1>Jae's Cafe</h1> 
                             </div>
-                            <div className="col">
-                             
+                            <div className="col md-3">
+                                <h1>Mobile Ordering App</h1>
+                            </div>
+                            <div className="col md-3">
+                                <h1>ShoppingCartHere</h1>
                             </div>
                         </div>
                     </div>
